@@ -56,4 +56,4 @@ Feel free to reach out to me for collaboration or questions!
 ---
 
 ## Hosted Application Link
-https://moviesearch-sumit.vercel.app/
+https://moviesearch-sumit.vercel.app
