@@ -29,7 +29,7 @@ A React based movie search web app that allows users to explore movies using the
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/sumitchhablani21/MovieSearch.git
-   cd movie-search-app
+   cd MovieSearch
    ```
 
 2.  **Install Dependencies**
