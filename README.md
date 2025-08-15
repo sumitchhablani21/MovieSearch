@@ -50,8 +50,8 @@ A React based movie search web app that allows users to explore movies using the
 Feel free to reach out to me for collaboration or questions!  
 
 - 📧 Email: [sumitchhablani20@gmail.com](mailto:sumitchhablani20@gmail.com)  
-- 💼 LinkedIn: [Sumit Chhablani](https://www.linkedin.com/in/sumit-chhablani/)  
-- 🐙 GitHub: [GitHub](https://github.com/sumitchhablani21)   
+- 💼 LinkedIn: [Click Here](https://www.linkedin.com/in/sumit-chhablani/)  
+- 🐙 GitHub: [Click Here](https://github.com/sumitchhablani21)   
 
 ---
 
