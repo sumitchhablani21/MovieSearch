@@ -1,12 +1,59 @@
-# React + Vite
+# 🎬 Movie Search Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React based movie search web app that allows users to explore movies using the OMDB API and save them to a personalized watchlist for future viewing.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 **Search Movies** – Fetches real-time movie details (title, year, poster, etc.) from the OMDB API.  
+- 📄 **Movie Details** – Displays essential information about each movie.  
+- ⭐ **Watchlist** – Add movies to a watchlist to keep track of what you want to watch later.  
+- 💾 **Persistent Storage** – Watchlist is stored in **Local Storage** so it remains available after reloads.  
+- 📱 **Responsive UI** – Built with **Tailwind CSS** for a clean and modern design.  
+- 🧭 **Navigation** – Includes navbar and routing using **React Router**.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, React Router, Tailwind CSS  
+- **API:** [OMDB API](https://www.omdbapi.com/)  
+- **State Management:** React Hooks (`useState`, `useEffect`)  
+- **Storage:** Browser Local Storage  
+
+---
+
+## 📂 Project Setup
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/sumitchhablani21/MovieSearch.git
+   cd movie-search-app
+   ```
+
+2.  **Install Dependencies**
+    ```bash
+    npm install
+    ```
+
+3.  **Start the Development Server**
+    ```bash
+    npm run dev
+    ```
+    The server will start, and you should see a confirmation message in your terminal.
+
+---
+
+## 📬 Contact
+
+Feel free to reach out to me for collaboration or questions!  
+
+- 📧 Email: [sumitchhablani20@gmail.com](mailto:sumitchhablani20@gmail.com)  
+- 💼 LinkedIn: [Sumit Chhablani](https://www.linkedin.com/in/sumit-chhablani/)  
+- 🐙 GitHub: [GitHub](https://github.com/sumitchhablani21)   
+
+---
+
+## Hosted Application Link
+https://moviesearch-sumit.vercel.app/
